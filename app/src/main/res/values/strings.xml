@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UI MAD</string>
+    <string name="logo_worklk">Logo WorkLK</string>
+    <string name="setup_page_2">Setup Page 2</string>
+    <string name="skip">Skip</string>
+    <string name="simplify_your_job_search">Simplify your job search</string>
+    <string name="setuppage1_txt2">Find your perfect job match from a vast selection of career opportunities.</string>
+    <string name="next">Next</string>
+    <string name="hired_in_a_dream_company">Hired in a dream company</string>
+    <string name="setuppage2_ins">Get a job at your dream company very easily without confusing</string>
+    <string name="_02_03">02/03</string>
+    <string name="_03_03">03/03</string>
+    <string name="achieve_your_dream_job_with_us">Achieve your dream job with us</string>
+    <string name="the_ultimate_job_search_platform_for_sri_lankan_job_seekers">The ultimate job search platform for Sri Lankan job seekers</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_as">Continue as</string>
+    <string name="find_your_dream_job_and_build_your_career">Find your dream job and build your career</string>
+    <string name="continuetxtpg5">Continue</string>
+</resources>
