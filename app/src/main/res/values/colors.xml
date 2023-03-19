@@ -13,6 +13,8 @@
     <color name="greyText">#939393</color>
     <color name="fillerBlank">#F0EFF5</color>
     <color name="RedWarn">#FF0909</color>
+    <color name="bggrey">#fafafa</color>
+    <color name="greyjob">#868686</color>
 
 
 </resources>

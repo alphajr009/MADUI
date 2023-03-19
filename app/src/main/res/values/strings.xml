@@ -63,7 +63,6 @@
     <string name="join_the_hunt">Join the Hunt</string>
     <string name="sign_up_to_join">Sign up to join</string>
     <string name="add_photo">Add Photo</string>
-    <string name="name">Name</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="mobile">Mobile</string>
     <string name="have_an_account">Have an account?</string>
@@ -94,7 +93,7 @@
 
 
 <!-- Page 13 -->
-    <string name="education">Education</string>
+
     <string name="school_or_university">School or University</string>
     <string name="sliit">SLIIT</string>
     <string name="ex_bachelor_of_science">Ex: Bachelor of Science</string>
@@ -105,7 +104,7 @@
 
 
     <!-- Page 14 -->
-    <string name="experience">Experience</string>
+
     <string name="job_title">Job Title</string>
     <string name="software_engineer">Software Engineer</string>
     <string name="enter_company_location">Enter company location</string>
@@ -121,6 +120,53 @@
 <!-- Page 15  -->
     <string name="continuword">Continue</string>
     <string name="success">Success</string>
+
+
+<!--  Page 16  -->
+    <string name="companylogo1">Company Logo</string>
+    <string name="product_designer">Product Designer</string>
+    <string name="_365_3rd_lane_gamunupura">365,3rd lane,Gamunupura.</string>
+    <string name="rs_8k_mo">Rs.8k/mo</string>
+    <string name="create_studio">Create Studio</string>
+    <string name="_3d_animation">3D Animation</string>
+    <string name="finance_manager">Finance Manager</string>
+    <string name="filter_button">filter Button</string>
+    <string name="all">All</string>
+    <string name="search_for_everything">Search for everything..</string>
+
+<!-- Page 17 -->
+    <string name="apply_now">Apply Now</string>
+    <string name="_40h_week">40h / week</string>
+    <string name="hours">Hours</string>
+    <string name="isurupura_malabe">Isurupura,Malabe</string>
+    <string name="rs_60k_rs_80k">Rs.60K - Rs.80K</string>
+    <string name="description">Description</string>
+    <string name="limited_sounds_42_a_isurupura_malabe">Limited Sounds .42/A isurupura,Malabe</string>
+    <string name="rate">Rate</string>
+    <string name="lorem_ipsum_">Lorem ipsum dolor sit amet, consectetur adipiscing elitdrerit Mollis nunc sed id semper risus in </string>
+    <string name="job_overview">Job Overview</string>
+    <string name="salary">Salary</string>
+    <string name="rs_3000">Rs.3000 /</string>
+
+
+
+    <!-- Page 18  -->
+    <string name="notifications">Notifications</string>
+    <string name="no_notifcations_yet">No Notifcations Yet</string>
+
+
+<!-- Page 19 -->
+    <string name="about">About</string>
+    <string name="education">Education</string>
+    <string name="experience">Experience</string>
+    <string name="security">Security</string>
+    <string name="name">Name</string>
+
+
+
+
+
+
 
 
 
