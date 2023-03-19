@@ -2,18 +2,126 @@
     <string name="app_name">UI MAD</string>
     <string name="logo_worklk">Logo WorkLK</string>
     <string name="setup_page_2">Setup Page 2</string>
-    <string name="skip">Skip</string>
+
+
+    <!--Page 02 -->
     <string name="simplify_your_job_search">Simplify your job search</string>
     <string name="setuppage1_txt2">Find your perfect job match from a vast selection of career opportunities.</string>
+    <string name="_01_03">01/03</string>
+
+    <!--Page 03 -->
+    <string name="skip">Skip</string>
     <string name="next">Next</string>
     <string name="hired_in_a_dream_company">Hired in a dream company</string>
     <string name="setuppage2_ins">Get a job at your dream company very easily without confusing</string>
     <string name="_02_03">02/03</string>
+
+
+    <!--Page 04 -->
     <string name="_03_03">03/03</string>
     <string name="achieve_your_dream_job_with_us">Achieve your dream job with us</string>
     <string name="the_ultimate_job_search_platform_for_sri_lankan_job_seekers">The ultimate job search platform for Sri Lankan job seekers</string>
     <string name="get_started">Get Started</string>
+
+    <!--Page 05 -->
     <string name="continue_as">Continue as</string>
+    <string name="to_continue_to_next_the_page_please_select_which_one_you_are">To continue to next the page , please select which one you are</string>
+    <string name="job_seekers">Job Seekers</string>
     <string name="find_your_dream_job_and_build_your_career">Find your dream job and build your career</string>
     <string name="continuetxtpg5">Continue</string>
+    <string name="recruit_great_employees_quickly_and_easily">Recruit great employees quickly and easily</string>
+
+<!--Page 06 and 07 -->
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="password">Password</string>
+    <string name="incorrect_email_or_password">Incorrect Email or Password</string>
+
+    <!--Page 08 -->
+    <string name="send">Send</string>
+    <string name="enter_your_email_and_we_will_send_you_instruction_on_how_to_reset_it">Enter your email and we will send you instruction on how to reset it.</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="verifying_email">Verifying Email</string>
+
+
+    <!--Page 09 -->
+    <string name="we_ve_sent_your_verification_code_to">We’ve sent your verification code to</string>
+    <string name="verify">Verify</string>
+    <string name="enter_code">Enter Code</string>
+
+
+
+
+
+    <!--Page 10 -->
+    <string name="email">Email</string>
+    <string name="join_the_hunt">Join the Hunt</string>
+    <string name="sign_up_to_join">Sign up to join</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobile">Mobile</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="i_agree_to_the">I agree to the</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+
+
+<!--    Page 11-->
+
+    <string name="gender">Gender</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="phone">Phone</string>
+    <string name="date_of_birth">Date of Birth</string>
+
+
+<!--  Page 12  -->
+    <string name="house_lane">House Lane</string>
+    <string name="house_no">House No.</string>
+    <string name="_368_2">368/2</string>
+    <string name="southern">Southern</string>
+    <string name="district">District</string>
+    <string name="city">City</string>
+    <string name="wellawatta_road">Wellawatta Road</string>
+    <string name="province">Province</string>
+    <string name="ambalangoda">Ambalangoda</string>
+    <string name="galle">Galle</string>
+
+
+<!-- Page 13 -->
+    <string name="education">Education</string>
+    <string name="school_or_university">School or University</string>
+    <string name="sliit">SLIIT</string>
+    <string name="ex_bachelor_of_science">Ex: Bachelor of Science</string>
+    <string name="enter_location">Enter location</string>
+    <string name="degree">Degree</string>
+    <string name="add_more_button">Add More Button</string>
+    <string name="calender_button">Calender Button</string>
+
+
+    <!-- Page 14 -->
+    <string name="experience">Experience</string>
+    <string name="job_title">Job Title</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="enter_company_location">Enter company location</string>
+    <string name="enter_company_name">Enter company name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+
+
+
+<!-- Page 15  -->
+    <string name="continuword">Continue</string>
+    <string name="success">Success</string>
+
+
+
 </resources>
