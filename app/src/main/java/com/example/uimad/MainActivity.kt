@@ -7,7 +7,7 @@ import android.view.WindowManager
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.page18)
+        setContentView(R.layout.setuppage1)
 
 //                getWindow().setFlags(
 //            WindowManager.LayoutParams.FLAG_FULLSCREEN,

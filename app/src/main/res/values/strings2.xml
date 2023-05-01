@@ -3,10 +3,21 @@
 
 
 
-    <!-- Page 34 -->
+    <!-- Page 37 -->
 
-    <string name="payemnetcompleted">Payment Completed</string>
-    <string name="backtohome">Back To Home</string>
+    <string name="payment">Payment</string>
+    <string name="paymenthint">Payment from Companies</string>
+
+    <string name="policy">Policy</string>
+    <string name="policyfill">When creating a job vacancy on our platform, companies will be directed
+        to our payment policy page before they can proceed. Payment for job postings is required upfront and
+        be made securely using a credit card.Our pricing structure is based on the duration of the job posting.
+        We offer various packages ranging from a one-time 30-day posting to a 90-day posting. Companies can choose
+        the package that best fits their needs and budget. Our pricing is competitive and reflects the value of our
+        platform in helping companies find qualified candidates quickly and efficiently.
+    </string>
+    <string name="editpolicies">Edit Polices</string>
+
 
 
 
